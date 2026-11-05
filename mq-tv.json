@@ -1,56 +1,57 @@
 {
-  "updatedAt": "2026-11-05T21:33:37+07:00",
+  "updatedAt": "2026-11-05T21:54:28+07:00",
+  "healthChecked": false,
   "epg": "https://epg.io.vn/epg.xml",
-  "channels": 598,
-  "sha256": "e3c8d2052e36f39c7224a96d513b66cb20a95ea41db93ecdb096402efbd772e1",
+  "channels": 843,
+  "sha256": "294d74a320b99d159f7023bb95000c909555b075c5b4d59e063f176dc624ba4a",
   "groups": [
     {
       "name": "VTV",
-      "count": 47
+      "count": 72
     },
     {
       "name": "SCTV",
-      "count": 24
+      "count": 54
     },
     {
       "name": "Quốc Tế",
-      "count": 43
+      "count": 54
     },
     {
       "name": "VTVcab",
-      "count": 7
+      "count": 12
     },
     {
       "name": "HTV",
-      "count": 35
+      "count": 52
     },
     {
       "name": "In The Box",
-      "count": 5
+      "count": 8
     },
     {
       "name": "Thể Thao",
-      "count": 118
+      "count": 183
     },
     {
       "name": "Địa Phương",
-      "count": 85
+      "count": 120
     },
     {
       "name": "Quốc Phòng",
-      "count": 5
+      "count": 8
     },
     {
       "name": "Khác",
-      "count": 229
+      "count": 280
     }
   ],
   "missingGroups": [
     "VTC"
   ],
-  "unverified": 262,
+  "unverified": 0,
   "dropped": {
-    "duplicate": 257
+    "duplicate": 13
   },
   "sources": [
     {
@@ -58,45 +59,35 @@
       "url": "https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/main/http-iptv.m3u",
       "priority": 2,
       "ok": true,
-      "channels": 76,
-      "alive": 31,
-      "aliveRatio": 0.408
+      "channels": 76
     },
     {
       "name": "vmttv",
       "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/vmttv",
       "priority": 1,
       "ok": true,
-      "channels": 545,
-      "alive": 133,
-      "aliveRatio": 0.244
+      "channels": 546
     },
     {
       "name": "vumi-tv",
       "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/tv.m3u",
       "priority": 3,
       "ok": true,
-      "channels": 382,
-      "alive": 125,
-      "aliveRatio": 0.327
+      "channels": 382
     },
     {
       "name": "iptv-org-vie",
       "url": "https://iptv-org.github.io/iptv/languages/vie.m3u",
       "priority": 4,
       "ok": true,
-      "channels": 100,
-      "alive": 6,
-      "aliveRatio": 0.06
+      "channels": 100
     },
     {
       "name": "iptv-org-vn",
       "url": "https://iptv-org.github.io/iptv/countries/vn.m3u",
       "priority": 5,
       "ok": true,
-      "channels": 95,
-      "alive": 77,
-      "aliveRatio": 0.811
+      "channels": 95
     }
   ],
   "playlist": "https://raw.githubusercontent.com/minhquanghp86/mq-tv-lists/main/vn.m3u"

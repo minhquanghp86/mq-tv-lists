@@ -44,5 +44,7 @@
       "enabled": false,
       "priority": 7
     }
-  ]
+  ],
+  "health_check": false,
+  "max_streams_per_name": 3
 }

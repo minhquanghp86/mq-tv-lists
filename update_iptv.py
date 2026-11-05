@@ -129,7 +129,7 @@ class Channel:
     vlc_opts: list[str] = field(default_factory=list)
     score: float = 0.0
     key: str = ""
-    alive: bool = True
+    alive: bool | None = None
     source: str = ""
     priority: int = 10
 
@@ -341,34 +341,31 @@ def apply_overrides(channels: list[Channel]) -> None:
         channel.tvg_id = data.get("tvg_id", channel.tvg_id)
 
 
-def merge(channels: list[Channel], health: dict, stats: dict | None = None) -> list[Channel]:
-    best: dict[str, Channel] = {}
+def merge(
+    channels: list[Channel],
+    health: dict,
+    stats: dict | None = None,
+    max_streams: int = 1,
+    use_health: bool = True,
+) -> list[Channel]:
+    best: dict[str, list[Channel]] = {}
     seen_urls: set[str] = set()
     counter = stats if stats is not None else {}
-    for channel in channels:
+    for channel in sorted(channels, key=lambda item: (item.priority, 1 if ".mpd" in item.url.lower() else 0, -item.score)):
         if channel.url in seen_urls:
             counter["duplicate"] = counter.get("duplicate", 0) + 1
             continue
-        if not keep_channel(channel, health):
+        if use_health and not keep_channel(channel, health):
             counter["dead"] = counter.get("dead", 0) + 1
             continue
-        alive = int(health.get(channel.url, {}).get("fails", 1)) == 0
-        channel.alive = alive
-        current = best.get(channel.key)
-        if current is None:
-            best[channel.key] = channel
+        channel.alive = (int(health.get(channel.url, {}).get("fails", 1)) == 0) if use_health else None
+        bucket = best.setdefault(channel.key, [])
+        if len(bucket) < max_streams:
+            bucket.append(channel)
             seen_urls.add(channel.url)
-            continue
-        current_score = (int(current.alive), -current.priority, current.score)
-        new_score = (int(alive), -channel.priority, channel.score)
-        if new_score > current_score:
-            seen_urls.discard(current.url)
-            best[channel.key] = channel
-            seen_urls.add(channel.url)
-            counter["duplicate"] = counter.get("duplicate", 0) + 1
         else:
             counter["duplicate"] = counter.get("duplicate", 0) + 1
-    return list(best.values())
+    return [channel for bucket in best.values() for channel in bucket]
 
 
 def sort_key(channel: Channel) -> tuple:
@@ -385,6 +382,7 @@ def write_outputs(
     sources_report: list[dict],
     epg_url: str,
     dropped: dict | None = None,
+    health_checked: bool = True,
 ) -> dict:
     channels.sort(key=sort_key)
     lines = [
@@ -407,6 +405,7 @@ def write_outputs(
 
     meta = {
         "updatedAt": datetime.now(ICT).isoformat(timespec="seconds"),
+        "healthChecked": health_checked,
         "epg": epg_url,
         "channels": len(channels),
         "sha256": hashlib.sha256(text.encode("utf-8")).hexdigest(),
@@ -443,6 +442,8 @@ def main() -> None:
     if not sources:
         raise SystemExit("❌  không có nguồn nào được bật trong sources.json")
 
+    health_check = bool(config.get("health_check", True))
+    max_streams = int(config.get("max_streams_per_name", 3))
     health = load_health()
     all_channels: list[Channel] = []
     report: list[dict] = []
@@ -471,23 +472,25 @@ def main() -> None:
     unique_by_url = {channel.url: channel for channel in usable}.values()
     candidates = list(unique_by_url)
     dropped = {"junk": len(junk)} if junk else {}
-    check_health(candidates, user_agent, health)
+    if health_check:
+        check_health(candidates, user_agent, health)
 
-    alive_by_source: dict[str, int] = {}
-    for channel in candidates:
-        if int(health.get(channel.url, {}).get("fails", 1)) == 0:
-            alive_by_source[channel.source] = alive_by_source.get(channel.source, 0) + 1
-    for entry in report:
-        entry["alive"] = alive_by_source.get(entry["name"], 0)
-        total = entry.get("channels") or 0
-        entry["aliveRatio"] = round(entry["alive"] / total, 3) if total else 0.0
+    if health_check:
+        alive_by_source: dict[str, int] = {}
+        for channel in candidates:
+            if int(health.get(channel.url, {}).get("fails", 1)) == 0:
+                alive_by_source[channel.source] = alive_by_source.get(channel.source, 0) + 1
+        for entry in report:
+            entry["alive"] = alive_by_source.get(entry["name"], 0)
+            total = entry.get("channels") or 0
+            entry["aliveRatio"] = round(entry["alive"] / total, 3) if total else 0.0
 
-    merged = merge(candidates, health, dropped)
+    merged = merge(candidates, health, dropped, max_streams, health_check)
     apply_overrides(merged)
-    merged = merge(merged, health)
+    merged = merge(merged, health, None, max_streams, health_check)
     validate(merged)
 
-    meta = write_outputs(merged, report, epg_url, dropped)
+    meta = write_outputs(merged, report, epg_url, dropped, health_check)
     HEALTH_FILE.parent.mkdir(parents=True, exist_ok=True)
     HEALTH_FILE.write_text(
         json.dumps(dict(sorted(health.items())), ensure_ascii=False, indent=1) + "\n",

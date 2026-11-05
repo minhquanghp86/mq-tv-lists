@@ -19,6 +19,12 @@ Dùng được với app MINH QUANG TV, TiviMate, OTT Navigator, Perfect Player,
 | `state/health.json` | Sức khoẻ từng URL giữa các lần chạy (số lần lỗi liên tiếp, lần sống cuối) |
 | `channels.json` | Ghi đè thủ công: `{"vtv1": {"name": "...", "group": "...", "logo": "...", "tvg_id": "..."}}` |
 
+## Cấu hình mặc định (2026-11-05)
+
+- **Không kiểm tra sống** (`"health_check": false`) — chỉ gộp nguồn và loại trùng; kênh chết không bị xoá.
+- Giữ tối đa **3 luồng/kênh** (`"max_streams_per_name": 3`), ưu tiên nguồn (`priority`) rồi chất lượng; HLS (`.m3u8`) xếp trước DASH (`.mpd`).
+- App dùng các luồng này làm **luồng dự phòng**: luồng chính lỗi/đen → tự thử luồng kế của cùng kênh.
+
 ## Cách hoạt động
 
 1. Tải mọi nguồn bật trong `sources.json` (song song, UA Chrome).
