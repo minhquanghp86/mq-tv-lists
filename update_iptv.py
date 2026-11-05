@@ -62,7 +62,7 @@ GROUP_KEYWORDS = [
     ("HTV", ("htv",)),
     ("In The Box", ("in the box", "inthebox", "intv")),
     ("Quốc Phòng", ("quốc phòng", "quoc phong", "antv", "qpvn")),
-    ("Thể Thao", ("thể thao", "the thao", "sport", "football", "bóng đá", "golf", "tennis")),
+    ("Thể Thao", ("thể thao", "the thao", "sport", "football", "bóng đá", "golf", "tennis", "blv", "bình luận")),
     (
         "Địa Phương",
         (
@@ -114,6 +114,7 @@ PIPE_SUFFIX = re.compile(r"\s*\|.*$")
 BITRATE_RE = re.compile(r"(\d+(?:\.\d+)?)\s*mb(?:ps)?", re.I)
 SPACES_RE = re.compile(r"\s{2,}")
 ATTR_RE = re.compile(r'([a-zA-Z0-9\-]+)="([^"]*)"')
+JUNK_RE = re.compile(r"^(?:[=\-_*#|~ .]+|test|xxx|demo|sample)$", re.I)
 
 UA_FALLBACK = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36"
 
@@ -130,6 +131,7 @@ class Channel:
     key: str = ""
     alive: bool = True
     source: str = ""
+    priority: int = 10
 
 
 # ── chuẩn hoá ────────────────────────────────────────────────────────
@@ -189,7 +191,14 @@ def fetch(url: str, user_agent: str, timeout: int = FETCH_TIMEOUT) -> str | None
         return None
 
 
-def parse_m3u(text: str, source: str) -> list[Channel]:
+def is_junk(name: str) -> bool:
+    cleaned = re.sub(r"[^0-9A-Za-zÀ-ỹ]+", " ", name).strip().lower()
+    if len(cleaned.replace(" ", "")) < 2:
+        return True
+    return cleaned in {"test", "xxx", "demo", "sample"}
+
+
+def parse_m3u(text: str, source: str, priority: int = 10) -> list[Channel]:
     channels: list[Channel] = []
     pending = None
     pending_opts: list[str] = []
@@ -208,6 +217,7 @@ def parse_m3u(text: str, source: str) -> list[Channel]:
                 logo=attrs.get("tvg-logo", "").strip(),
                 group=attrs.get("group-title", "").strip() or "Khác",
                 source=source,
+                priority=priority,
             )
             pending_opts = []
             continue
@@ -270,6 +280,27 @@ def check_health(channels: list[Channel], user_agent: str, health: dict) -> None
             url = future_map[future]
             results[url] = bool(future.result())
 
+    failed = [url for url, ok in results.items() if not ok]
+    if failed:
+        print(f"    thử lại {len(failed)} luồng lỗi…")
+
+        def retry(url: str) -> bool:
+            try:
+                with requests.get(
+                    url,
+                    timeout=PROBE_TIMEOUT + 4,
+                    headers={"User-Agent": user_agent},
+                    stream=True,
+                ) as response:
+                    return response.status_code < 400
+            except Exception:  # noqa: BLE001
+                return False
+
+        with concurrent.futures.ThreadPoolExecutor(max_workers=PROBE_WORKERS) as pool:
+            for url, ok in zip(failed, pool.map(retry, failed)):
+                if ok:
+                    results[url] = True
+
     now = datetime.now(ICT).isoformat(timespec="seconds")
     for url, ok in results.items():
         entry = health.setdefault(url, {"fails": 0, "lastOk": None, "lastCheck": None})
@@ -314,13 +345,16 @@ def apply_overrides(channels: list[Channel]) -> None:
         channel.tvg_id = data.get("tvg_id", channel.tvg_id)
 
 
-def merge(channels: list[Channel], health: dict) -> list[Channel]:
+def merge(channels: list[Channel], health: dict, stats: dict | None = None) -> list[Channel]:
     best: dict[str, Channel] = {}
     seen_urls: set[str] = set()
+    counter = stats if stats is not None else {}
     for channel in channels:
         if channel.url in seen_urls:
+            counter["duplicate"] = counter.get("duplicate", 0) + 1
             continue
         if not keep_channel(channel, health):
+            counter["dead"] = counter.get("dead", 0) + 1
             continue
         alive = int(health.get(channel.url, {}).get("fails", 1)) == 0
         channel.alive = alive
@@ -329,12 +363,15 @@ def merge(channels: list[Channel], health: dict) -> list[Channel]:
             best[channel.key] = channel
             seen_urls.add(channel.url)
             continue
-        current_score = (int(current.alive), current.score)
-        new_score = (int(alive), channel.score)
+        current_score = (int(current.alive), -current.priority, current.score)
+        new_score = (int(alive), -channel.priority, channel.score)
         if new_score > current_score:
             seen_urls.discard(current.url)
             best[channel.key] = channel
             seen_urls.add(channel.url)
+            counter["duplicate"] = counter.get("duplicate", 0) + 1
+        else:
+            counter["duplicate"] = counter.get("duplicate", 0) + 1
     return list(best.values())
 
 
@@ -347,7 +384,12 @@ def sort_key(channel: Channel) -> tuple:
     return (group_index, number, channel.name.lower())
 
 
-def write_outputs(channels: list[Channel], sources_report: list[dict], epg_url: str) -> dict:
+def write_outputs(
+    channels: list[Channel],
+    sources_report: list[dict],
+    epg_url: str,
+    dropped: dict | None = None,
+) -> dict:
     channels.sort(key=sort_key)
     lines = [
         f'#EXTM3U url-tvg="{epg_url}" x-tvg-url="{epg_url}"',
@@ -377,6 +419,8 @@ def write_outputs(channels: list[Channel], sources_report: list[dict], epg_url: 
             for name in GROUP_ORDER
             if groups.get(name)
         ],
+        "missingGroups": [name for name in GROUP_ORDER if not groups.get(name) and name != "Khác"],
+        "dropped": dropped or {},
         "sources": sources_report,
         "playlist": "https://raw.githubusercontent.com/minhquanghp86/mq-tv-lists/main/vn.m3u",
     }
@@ -409,12 +453,13 @@ def main() -> None:
     for index, source in enumerate(sources, 1):
         print(f"[{index}/{len(sources)}] {source['name']}: {source['url']}")
         text = fetch(source["url"], user_agent)
-        parsed = parse_m3u(text, source["name"]) if text else []
+        parsed = parse_m3u(text, source["name"], int(source.get("priority", 10))) if text else []
         print(f"    {len(parsed)} kênh")
         report.append(
             {
                 "name": source["name"],
                 "url": source["url"],
+                "priority": int(source.get("priority", 10)),
                 "ok": bool(text),
                 "channels": len(parsed),
             }
@@ -424,8 +469,11 @@ def main() -> None:
     if not all_channels:
         raise SystemExit("❌  không tải được nguồn nào")
 
-    unique_by_url = {channel.url: channel for channel in all_channels}.values()
+    junk = [channel for channel in all_channels if is_junk(channel.name)]
+    usable = [channel for channel in all_channels if not is_junk(channel.name)]
+    unique_by_url = {channel.url: channel for channel in usable}.values()
     candidates = list(unique_by_url)
+    dropped = {"junk": len(junk)} if junk else {}
     check_health(candidates, user_agent, health)
 
     alive_by_source: dict[str, int] = {}
@@ -434,13 +482,15 @@ def main() -> None:
             alive_by_source[channel.source] = alive_by_source.get(channel.source, 0) + 1
     for entry in report:
         entry["alive"] = alive_by_source.get(entry["name"], 0)
+        total = entry.get("channels") or 0
+        entry["aliveRatio"] = round(entry["alive"] / total, 3) if total else 0.0
 
-    merged = merge(candidates, health)
+    merged = merge(candidates, health, dropped)
     apply_overrides(merged)
     merged = merge(merged, health)
     validate(merged)
 
-    meta = write_outputs(merged, report, epg_url)
+    meta = write_outputs(merged, report, epg_url, dropped)
     HEALTH_FILE.parent.mkdir(parents=True, exist_ok=True)
     HEALTH_FILE.write_text(
         json.dumps(dict(sorted(health.items())), ensure_ascii=False, indent=1) + "\n",

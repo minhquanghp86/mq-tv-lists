@@ -2,6 +2,7 @@ from update_iptv import (
     Channel,
     classify,
     clean_name,
+    is_junk,
     merge,
     norm_key,
     parse_m3u,
@@ -72,3 +73,19 @@ def test_sort_orders_groups_and_numbers():
 
 def test_norm_key_matches_diacritics():
     assert norm_key("Quốc Tế") == norm_key("quoc te")
+
+
+def test_is_junk_filters_garbage_names():
+    assert is_junk("===| TEST |===")
+    assert is_junk("   ")
+    assert is_junk("x")
+    assert not is_junk("VTV1")
+    assert not is_junk("Đài Phát thanh Quảng Ninh")
+
+
+def test_merge_prefers_source_priority_when_scores_tie():
+    a = Channel(name="VTV1", url="http://a/1", key="vtv1", score=50, group="VTV", priority=5)
+    b = Channel(name="VTV1", url="http://b/1", key="vtv1", score=50, group="VTV", priority=1)
+    merged = merge([a, b], {})
+    assert len(merged) == 1
+    assert merged[0].url == "http://b/1"
