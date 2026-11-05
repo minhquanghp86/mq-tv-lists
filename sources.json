@@ -1,0 +1,12 @@
+{
+  "epg_url": "https://epg.io.vn/epg.xml",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+  "sources": [
+    { "name": "vmttv",           "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/vmttv", "enabled": true },
+    { "name": "khanh71",         "url": "https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/main/http-iptv.m3u", "enabled": true },
+    { "name": "iptv-org-vn",     "url": "https://iptv-org.github.io/iptv/countries/vn.m3u", "enabled": true },
+    { "name": "iptv-org-vie",    "url": "https://iptv-org.github.io/iptv/languages/vie.m3u", "enabled": true },
+    { "name": "vumi-tv",         "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/tv.m3u", "enabled": true },
+    { "name": "giangnam0201",    "url": "https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/main/channels.m3u", "enabled": false }
+  ]
+}

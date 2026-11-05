@@ -1,0 +1,4277 @@
+{
+ "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://103.78.0.190:8080/live/vtv6.flv?token=vtv_secret_20260712": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://103.90.220.236/qtvlive/qnr1.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://103.90.220.236/qtvlive/qnr2.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://112.123.206.32:808/hls/10/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://112.123.206.32:808/hls/14/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://112.123.206.32:808/hls/8/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://112.123.206.32:808/hls/9/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://123.31.36.68/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg12.hni": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://3bb.engatetv.com:25461/hstn/line/14": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://3bb.engatetv.com:25461/hstn/line/17": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://3bb.engatetv.com:25461/hstn/line/21": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://42.1.99.192:8080/secureVhost/vtv10.flv?token=vtv_secret_20260708": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://42.1.99.192:8080/secureVhost/vtv3.flv?token=vtv_secret_20260708": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://42.1.99.192:8080/secureVhost/vtv9.flv?token=vtv_secret_20260708": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://59.23.231.102:1935/live/UBCstream/playlist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv10hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv11hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv12hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv13hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv14hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv15hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv17hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv1hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv2hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv3hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv4hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv6hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv7hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv8hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://74.91.26.218:82/live/cctv9hd.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/playlist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776225&extension=ts&play_token=TGCPfAlA9v": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://dethich.pw/vtv5tn/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=1640362&extension=ts&play_token=eKXkvS11ah": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=1640363&extension=ts&play_token=3BQG0zEPez": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2024891&extension=ts&play_token=VqWp1NAPWy": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=2024892&extension=ts&play_token=LxmA0OO6vP": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=45324&extension=ts&play_token=SfaCdXaCHh": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=79284&extension=ts&play_token=BehiqjFJMV": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&livodToken=fabd3816e5335ddba8d1d88c9536a13c2675337479957dee07e669564a88f4e7_1720504638_604800&fromCDN=ws": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&livodToken=0034ae2fe24df5a14eb68b5de40ac5b36ab49542913cb5b015ae64ff49312f97_1720504669_604800&fromCDN=ws": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&livodToken=2c98acaa80392eb7cfc5167a9a71482882518255259852ee6387715d5104fd23_1720504686_604800&fromCDN=ws": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodToken=0d96180497a13efbadc909954e682aae4e63affa0ef1823b5c6dc5a73b461db4_1720504729_604800&fromCDN=ws": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=bde6e809b30a2e9d5be77b50b95f7634e4524e2a06f94bbcec4356d0f5b54ae3_1720508275_604800&fromCDN=ws": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=941470&extension=ts&play_token=10cpSzSEsB": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1084668&extension=ts&play_token=onuPSPIV6o": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1090711&extension=ts&play_token=jusk0cPyp1": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1091517&extension=ts&play_token=zKzxFKTNmb": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149433&extension=ts&play_token=Y1kv3yxPS8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729162&extension=ts&play_token=9JXfYd9pyq": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729164&extension=ts&play_token=vFbihF9Rmr": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729168&extension=ts&play_token=ThvjYQPppG": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228726&extension=ts&play_token=1WFblY6SIm": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228727&extension=ts&play_token=mwh0b4DmEo": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894977&extension=ts&play_token=W2HvDO5iES": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894979&extension=ts&play_token=RLLwKaJKqY": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894980&extension=ts&play_token=4ofwEIdTU4": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933003&extension=ts&play_token=OIqiUqIbWW": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933004&extension=ts&play_token=jtuDUMdLno": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941442&extension=ts&play_token=6sw55uPREH": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941443&extension=ts&play_token=BO2CiGVxUy": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941444&extension=ts&play_token=T8Adfmt7Vu": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941444&extension=ts&play_token=lWRMv4h4G6": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941446&extension=ts&play_token=onKUvLJ1FX": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941447&extension=ts&play_token=VmOfMyrDfy": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941449&extension=ts&play_token=uUpqkgtfue": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941468&extension=ts&play_token=oLegwjYDD5": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941470&extension=ts&play_token=2SQs9dSZmM": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941471&extension=ts&play_token=ReuCTADsrG": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941472&extension=ts&play_token=3EM8alU2An": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=958758&extension=ts&play_token=MskDtCSrpn": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=960054&extension=ts&play_token=qpvBSWKfyz": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=426912&extension=ts&play_token=7Dy1OBLUCx": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=426913&extension=ts&play_token=RJ0fZcMDgB": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=426914&extension=ts&play_token=Ft1hc8SBZD": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=426915&extension=ts&play_token=dWa8hyDPKN": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=426916&extension=ts&play_token=TK30UbkEcV": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=426917&extension=ts&play_token=uq54xOYACl": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://omnix.cn:4000/udp/225.1.8.20:8004": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://tv.ctvcamau.vn/live/radio/radio.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/HTV3-SD-720p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://1011154949.vnns.net/htvc/htv4.720p.nimble.adm.tms/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://64d0d74b76158.streamlock.net/THDTR/thdtradio/chunklist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://a.kvp726.com/20260919/pV94M4PR/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://a.kvp726.com/20261013/cbcYptZk/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://a.kvp726.com/20261026/2clev3ZX/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://a.kvp726.com/20261030/PhvUF3XB/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://audio-lss.vov.vn/han/live/vov1/audio/haudio-eng.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://audio-lss.vov.vn/han/live/vov2/audio/haudio-eng.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://audio-lss.vov.vn/han/live/vov3/audio/haudio-eng.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdn.mediatech.vn/dongnai/tv1live-transmux.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdn.mediatech.vn/dongnai/tv2live-transmux.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdn.qd.je/163189/cctv16": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdn.qd.je/163189/cctv5": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdn.qd.je/163189/cctv5p": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdnbaokhanhhoa.com/live/1332e3a79e27_std.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cdnbaokhanhhoa.com/live/90405a889081_std.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://chunks.tunein.com/live/newsfree/cnnfree/1213329/4ee8d54fa2e742f9a3a8f0d28abf5a10/aac_adts/96k/pri-aac_adts96-1712849145-5990-15247.aac": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist_w1535814517.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://d1o5wc5bjvzqoa.cloudfront.net/out/v1/bb744b243afb44eabcc56d002c36cafd/index.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://d3n2r2x6pixas4.cloudfront.net/out/v1/426d7a9e942b4f64917d66940bd3b147/index.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/dongnai3/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/htv1/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/htv2/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/htv3/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/htv7/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/htv9/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/htvcgiadinh/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/htvcphim/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/htvcphunu/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/thvl1/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/thvl3/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/thvl4/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/vtv5tnb/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://dethich.pw/vtv8/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://english-livebkali.cgtn.com/live/encgtn_0.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://epg.pw/stream/51549059a33a0dc4ac8d112ebbe3b1df956d95319a9ee54b6ca449c464893da5.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=10008": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=10036": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=10037": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=10038": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=10039": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=10040": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=106": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=109": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=11": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=110": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=111": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=112": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=12": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=13": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=132": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=133": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=136": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=15": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=151": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=176": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=177": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=178": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=179": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=180": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=181": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=182": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=184": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=185": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=186": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=187": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=188": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=19": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=190": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=191": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=192": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=193": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=194": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=2": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=20": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=201": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=213": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=215": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=216": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=219": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=220": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=232": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=25": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=255": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=26": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=31": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=33": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=34": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=35": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=45": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=46": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=48": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=49": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=51": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=52": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=53": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=54": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=58": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=59": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=60": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=66": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=68": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=69": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=71": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=72": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=74": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=80": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=81": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=83": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=88": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=89": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=9": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=90": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=91": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=9852": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=9855": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=9856": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=9901": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=9902": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=9903": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=9904": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=9905": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=9906": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=9934": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://freem3u.xyz/api/live/play.m3u8?vid=9951": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://hoiquan.dpdns.org/VTVGo/?sctv10": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live-hq.evgcdn.net/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live-hq.evgcdn.net/live/2855dfeccb7f49a41a2b0441b3bfeda413c/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live-hq.evgcdn.net/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.baolaocai.vn/channel2/stream.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.baoquangninh.vn/qtvlive/tv1live.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.baoquangninh.vn/qtvlive/tv3live.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.canthotv.vn/cs2/live.stream/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.canthotv.vn/cs2/live.stream/chunklist_w1497265452.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.canthotv.vn/cs3/tv/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.canthotv.vn/cs3/tv/chunklist_w1003748170.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.canthotv.vn/live/radio/chunklist_w1780522487.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.canthotv.vn/live/radiocs2/chunklist_w790093430.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.canthotv.vn/live/tv/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/fnxhd1/airanghd_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/fnxhd1/cnbchd_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_4000000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_3800000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_3800000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.huetv.com.vn/TRT-Online/chunklist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.huetv.com.vn/TRT-Online/playlist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.khoga.space/live/livehub1/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.khoga.space/live/livehub10/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.khoga.space/live/livehub2/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.khoga.space/live/livehub3/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.khoga.space/live/livehub4/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.khoga.space/live/livehub5/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.khoga.space/live/livehub6/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.khoga.space/live/livehub8/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.khoga.space/live/livehub9/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/2856e81d201c99b4649b5c62f3cddad3881/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/02456966.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/07428422.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/07808742.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/08552895.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/14707124.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/14830711.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/18812304.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/19919577.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/33982309.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/41943555.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/43612277.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/68848594.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/71426314.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/75748097.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/75915087.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/78905744.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/79665343.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/82054853.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/87379114.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/87547578.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/88508431.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/90725470.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/90865415.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/97312754.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/97885009.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.meung.app/live/99121525.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/02456966.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/07428422.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/07808742.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/08552895.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/14707124.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/14830711.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/18812304.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/19919577.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/24561735.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/33982309.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/41943555.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/43612277.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/68848594.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/71426314.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/75748097.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/75915087.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/78905744.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/79665343.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/82054853.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/87379114.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/87547578.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/88508431.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/90725470.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/90865415.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/97312754.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.miekgo.app/live/99121525.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/02456966.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/07428422.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/07808742.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/08552895.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/14707124.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/14830711.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/18812304.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/19919577.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/24561735.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/33982309.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/41943555.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/43612277.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/68848594.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/71426314.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/75748097.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/75915087.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/78905744.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/79665343.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/82054853.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/84753337.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/87379114.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/87547578.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/88508431.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/90725470.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/90865415.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/97312754.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live05.msdht.app/live/99121525.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/289650.flv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/289650.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/294335.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/294335.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/301238.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/301238.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/301263.flv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/301263.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/303098.flv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/303098.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/304565.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/304565.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/306290.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/306290.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/307240.flv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/307240.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/432017.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/741294.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/741294.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/796315.flv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://live2.zktsva.app/live/796315.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34.seenow.vn/hls/SCTV18/03.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34.vtvprime.vn/hls/HANOI2/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34.vtvprime.vn/hls/LAMDONG/01.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT1/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT10/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT2/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT3/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT4/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT5/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT6/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT7/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT8/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT9/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevliatmcdw.seenow.vn/live/data8/BONGDA_HD/Live_DASHDRM/BONGDA_HD.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevliatmcdw.seenow.vn/live/data8/HAY_TV/Live_DASHDRM/HAY_TV.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevliatmcdw.seenow.vn/live/data8/SKSS3/Live_DASHDRM/SKSS3.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevliatmcdw.seenow.vn/live/data8/SKSS4/Live_DASHDRM/SKSS4.mpd": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevliatmcdw.seenow.vn/live/data8/SKSS5/Live_DASHDRM/SKSS5.mpd": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BM1/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/HC/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/THETHAO_TINTUC_HD/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/WO/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/Live_DASHDRM2/THETHAO_HD/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT4/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://livevlisctcdnw.seenow.vn/mean/WO/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://luong.phaohoa.live/live/phaohoa1/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://luong.phaohoa.live/live/phaohoa10/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://luong.phaohoa.live/live/phaohoa2/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://luong.phaohoa.live/live/phaohoa3/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://luong.phaohoa.live/live/phaohoa4/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://luong.phaohoa.live/live/phaohoa5/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://luong.phaohoa.live/live/phaohoa6/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://luong.phaohoa.live/live/phaohoa7/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://luong.phaohoa.live/live/phaohoa8/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://luong.phaohoa.live/live/phaohoa9/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://media-ssl.musicradio.com/CapitalUK": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://media-ssl.musicradio.com/HeartUK": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1392208922.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://ott3.nethubtv.vn/live/bentretv/chunklist_2.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl002.com/live/69cf6331585c5992182f4160.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl002.com/live/6a704ad865997681f18c2160.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl004.com/live/69a1aaa7230584579e2d5ce1.flv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl004.com/live/69b8e6f43bcf2231c35d5144.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl004.com/live/69be75e0a0a45974afb67776.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl004.com/live/69f42e961f739deff81510c0.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl004.com/live/6a01a2511e8555d7a3685f5c.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl004.com/live/6a439a7fb89dded67b208b87.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl004.com/live/6a9a5525864ea536c2577392.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl006.com/live/69d37c3a4da3e15776b6db56.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl006.com/live/6a0c7c4b1ae4d6db02433c48.flv": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl006.com/live/6a5df755b89dded67b39b8bc.flv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl006.com/live/6a7c0d8f65997681f18cacc4.flv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://playback.livetl006.com/live/6a9776215126529dede9bf51.flv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://qipmgzougxliv.vcdn.cloud/app/stream/master.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://radio.thainguyentv.vn/hls/livestream.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/6AwEiNEKeWM/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/72av32/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/72nhy6/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/72x1ns/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/73bg84/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/73gpe4/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/73gr0i/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/73k35o/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/73os1q/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/73s4u6/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/73txdq/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/73uq6q/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/73vrdu/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/745t9a/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/74da00/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/74h9mw/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/757w6u/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/75uhgc/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/I43eXt8DNJE/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/NWyYlI26oZ0/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/aZ6ODFgg1L8/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/h15TO_BzvGk/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/lDgA-kgokls/playlist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/qlkfAggBdjU/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://rumble.com/hls-vod/rYCXyz8f0fw/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s4.phim1280.tv/20250323/KmdatGKe/3000kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20250811/miyJKDrj/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20250827/JfkCJsGc/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20250901/2RZvePPZ/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20250901/w8LN0LND/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20251118/obSmOjv7/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20251214/2ASHLy8K/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20251228/0HQf0tP2/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20260101/4Hxke0cC/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20260101/CqU7YVpt/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20260118/tdyKqxYZ/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20260129/HDz8Fu0F/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20260306/za4nlnWl/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20260312/kzmqZ1YJ/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20260320/02bq9QLy/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20260320/I7klQsjJ/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s6.kkphimplayer6.com/20260403/6UwV8LAv/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=10036": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=10037": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=10038": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=10039": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=109": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=112": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=213": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=31": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=32": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=39": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=45": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=48": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=49": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=52": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=58": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=64": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=68": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=69": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=71": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=72": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=76": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=80": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=81": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=83": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=88": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=92": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=9852": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=9856": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=9905": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/tv360.m3u8?id=9906": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://sgclient.duckdns.org/source/vieon.m3u8?id=quangngai2": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/chunklist_w762538826.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.langsontv.vn/live/285dabcfc94f52b458688fe7f601524816e/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.thingnet.vn/live/smil:LTV.smil/chunklist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.zeno.fm/0trm6wrnga0uv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.zeno.fm/4q7y9hvkp2zuv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.zeno.fm/8456uy0bcm0uv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.zeno.fm/a2dbs2tq1p8uv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.zeno.fm/ehbutdfccm0uv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream.zeno.fm/x2z45v7d84zuv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://stream1.freetv.fun/3171fa435d942f1b7fa6ec05780f8def6705a20b23dc5bd6a43be7f63f6dd781.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://streaming.thainguyentv.vn/hls/livestream.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://strm.voh.com.vn/radio/StreamCH5/chunklist_w613167886.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov1.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov2.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov3.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tpninosaga.duckdns.org/source/tv360.m3u8?id=169&token=NinoEra36": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tpninosaga.duckdns.org/source/tv360.m3u8?id=175&token=NinoEra36": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tpninosaga.duckdns.org/source/tv360.m3u8?id=186&token=NinoEra36": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tpninosaga.duckdns.org/source/tv360.m3u8?id=189&token=NinoEra36": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tpninosaga.duckdns.org/source/tv360.m3u8?id=55&token=NinoEra36": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tpninosaga.duckdns.org/source/tv360.m3u8?id=74&token=NinoEra36": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tpninosaga.duckdns.org/source/tv360.m3u8?id=77&token=NinoEra36": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tpninosaga.duckdns.org/source/twitch.m3u8?channel=devonlynino&token=NinoExility": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tpninosaga.duckdns.org/source/twitch.m3u8?channel=ninochannel12&token=NinoExility": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tv.ctvcamau.vn/live/tv/tv.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tv.gialaitv.vn/tv.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260504/xNE4czZl/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260615/qtiKqvFo/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260617/QgEs8NDH/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260711/ATJuS0IV/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260718/iH6o7Ll4/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260729/UgOYpPkC/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260820/QT327Pkh/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260821/1tcAZTSo/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260827/WX44Nosv/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260828/lfE5hjEB/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260901/EHFkQ2Wy/3500kb/hls/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://v7.kkphimplayer7.com/20260910/Y3IBebUU/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vietprocast.app/hls/abhp/index.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vip.opstream90.com/20260102/21537_fe1af53e/3000k/hls/mixed.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vip.opstream90.com/20260102/21538_3a9ba451/3000k/hls/mixed.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vip.opstream90.com/20260213/24963_b4f6926d/3000k/hls/mixed.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vip.opstream90.com/20260219/25424_5534491f/3000k/hls/mixed.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vip.opstream90.com/20260305/26504_404d52bf/3000k/hls/mixed.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vip.opstream90.com/20260312/26990_72417e4a/3000k/hls/mixed.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vip.opstream90.com/20260502/30774_da58e2e4/3000k/hls/mixed.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/index.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/ https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8VTVGo/?sctv8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?BinhLuanCamXuc": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?WC-FiFa": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?kenh-tieng-anh-1": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv1": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv10": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv11": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv12": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv13": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv14": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv16": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv18": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv19": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv20": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv21": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv3": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv4": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv5": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv7": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctv9": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/VTVGo/?sctvphim": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=175": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-anime": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-bundesliga": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-c2-chau-au": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-c3-chau-au": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-cong-thuc-1": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-doraemon": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-golf": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-hai-tinh-cam": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-hanh-dong-chau-a": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-hoa-ngu": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-k-drama": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-mr-bean": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-phim-4k": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-phim-kinh-dien": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-tennis": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-the-thao-chau-a": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=bac-ninh": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=davinci-hd": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=gia-lai": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=hitv": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=hoat-hinh": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=htv-the-thao": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=hung-yen": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=khanh-hoa": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=khanh-hoa-1": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=phim-au-my": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=phim-viet": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=phu-tho": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tuyen-quang": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-1": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-10": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-11": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-12": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-13": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-14": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-15": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-2": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-3": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-4": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-5": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-6": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-7": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=tv360-9": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=vtv10": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=vtv2": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=vtv3": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=vtv4": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=vtv6": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=vtv7": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=vtv8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=vtv9": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vmttv.dpdns.org/tv360/mpd.php?id=2554&cdn=1": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vodcdn.fptplay.net/POVOD/encoded/2025/12/28/thamtulungdanhconanduanhcuadocnhan-detectiveconanoneeyedflashback-2025-dolby-mav-bb8d776e6f35fe41/H264/stream.mpd?st=8PSyksBMiL_tvRpq4B3-eg&expires=1767859023": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv11-1d565c47": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv12-b0d6c023": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv13-67f88fcb": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv3-hd-cf3adaca": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv4-ae779f7e": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv7-ef7e259a": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv8-c12d138b": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv9-cdd19ab2": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vpsttt.vietanhtv.top/vieon/vieon.php?id=dong-nai-3": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8": {
+  "fails": 0,
+  "lastOk": "2026-11-05T20:33:47+07:00",
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ },
+ "https://wse.hatinhtv.net/radio/voht/playlist.m3u8": {
+  "fails": 1,
+  "lastOk": null,
+  "lastCheck": "2026-11-05T20:33:47+07:00"
+ }
+}

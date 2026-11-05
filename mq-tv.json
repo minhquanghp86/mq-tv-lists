@@ -1,0 +1,86 @@
+{
+  "updatedAt": "2026-11-05T20:33:47+07:00",
+  "epg": "https://epg.io.vn/epg.xml",
+  "channels": 444,
+  "sha256": "61c048b563e155871e0b0841a14c813c79361ec172890868e33e0ab9544c6fe4",
+  "groups": [
+    {
+      "name": "VTV",
+      "count": 34
+    },
+    {
+      "name": "SCTV",
+      "count": 23
+    },
+    {
+      "name": "Quốc Tế",
+      "count": 37
+    },
+    {
+      "name": "VTVcab",
+      "count": 16
+    },
+    {
+      "name": "HTV",
+      "count": 30
+    },
+    {
+      "name": "In The Box",
+      "count": 5
+    },
+    {
+      "name": "Thể Thao",
+      "count": 33
+    },
+    {
+      "name": "Địa Phương",
+      "count": 66
+    },
+    {
+      "name": "Quốc Phòng",
+      "count": 5
+    },
+    {
+      "name": "Khác",
+      "count": 195
+    }
+  ],
+  "sources": [
+    {
+      "name": "vmttv",
+      "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/vmttv",
+      "ok": true,
+      "channels": 545,
+      "alive": 182
+    },
+    {
+      "name": "khanh71",
+      "url": "https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/main/http-iptv.m3u",
+      "ok": true,
+      "channels": 76,
+      "alive": 54
+    },
+    {
+      "name": "iptv-org-vn",
+      "url": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+      "ok": true,
+      "channels": 95,
+      "alive": 1
+    },
+    {
+      "name": "iptv-org-vie",
+      "url": "https://iptv-org.github.io/iptv/languages/vie.m3u",
+      "ok": true,
+      "channels": 100,
+      "alive": 70
+    },
+    {
+      "name": "vumi-tv",
+      "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/tv.m3u",
+      "ok": true,
+      "channels": 382,
+      "alive": 189
+    }
+  ],
+  "playlist": "https://raw.githubusercontent.com/minhquanghp86/mq-tv-lists/main/vn.m3u"
+}
