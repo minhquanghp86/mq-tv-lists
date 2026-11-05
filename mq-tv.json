@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-05T21:30:30+07:00",
+  "updatedAt": "2026-11-05T21:33:37+07:00",
   "epg": "https://epg.io.vn/epg.xml",
   "channels": 598,
-  "sha256": "74074cf72b6b201848793641bc0cf0de9f3998ee70763e5ced4c0689f8e737d7",
+  "sha256": "e3c8d2052e36f39c7224a96d513b66cb20a95ea41db93ecdb096402efbd772e1",
   "groups": [
     {
       "name": "VTV",
@@ -18,7 +18,7 @@
     },
     {
       "name": "VTVcab",
-      "count": 8
+      "count": 7
     },
     {
       "name": "HTV",
@@ -42,13 +42,13 @@
     },
     {
       "name": "Khác",
-      "count": 228
+      "count": 229
     }
   ],
   "missingGroups": [
     "VTC"
   ],
-  "unverified": 133,
+  "unverified": 262,
   "dropped": {
     "duplicate": 257
   },
@@ -68,8 +68,8 @@
       "priority": 1,
       "ok": true,
       "channels": 545,
-      "alive": 211,
-      "aliveRatio": 0.387
+      "alive": 133,
+      "aliveRatio": 0.244
     },
     {
       "name": "vumi-tv",
@@ -77,8 +77,8 @@
       "priority": 3,
       "ok": true,
       "channels": 382,
-      "alive": 173,
-      "aliveRatio": 0.453
+      "alive": 125,
+      "aliveRatio": 0.327
     },
     {
       "name": "iptv-org-vie",
@@ -95,8 +95,8 @@
       "priority": 5,
       "ok": true,
       "channels": 95,
-      "alive": 85,
-      "aliveRatio": 0.895
+      "alive": 77,
+      "aliveRatio": 0.811
     }
   ],
   "playlist": "https://raw.githubusercontent.com/minhquanghp86/mq-tv-lists/main/vn.m3u"
