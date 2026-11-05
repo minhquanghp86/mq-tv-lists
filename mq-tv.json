@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-05T21:16:00+07:00",
+  "updatedAt": "2026-11-05T21:19:46+07:00",
   "epg": "https://epg.io.vn/epg.xml",
-  "channels": 456,
-  "sha256": "c2a945ade0389b312a4e5be75dbfc178ada78d9b6e727dc7723605ac9059dda5",
+  "channels": 480,
+  "sha256": "43474817a9fd9807a0773ce53c6d94b369e9adadc8796dc1ebd5f776995c2867",
   "groups": [
     {
       "name": "VTV",
@@ -22,7 +22,7 @@
     },
     {
       "name": "HTV",
-      "count": 30
+      "count": 31
     },
     {
       "name": "In The Box",
@@ -30,11 +30,11 @@
     },
     {
       "name": "Thể Thao",
-      "count": 55
+      "count": 57
     },
     {
       "name": "Địa Phương",
-      "count": 69
+      "count": 75
     },
     {
       "name": "Quốc Phòng",
@@ -42,15 +42,15 @@
     },
     {
       "name": "Khác",
-      "count": 193
+      "count": 207
     }
   ],
   "missingGroups": [
     "VTC"
   ],
   "dropped": {
-    "dead": 347,
-    "duplicate": 52
+    "dead": 322,
+    "duplicate": 53
   },
   "sources": [
     {
@@ -59,8 +59,8 @@
       "priority": 1,
       "ok": true,
       "channels": 76,
-      "alive": 47,
-      "aliveRatio": 0.618
+      "alive": 31,
+      "aliveRatio": 0.408
     },
     {
       "name": "vmttv",
@@ -68,8 +68,8 @@
       "priority": 2,
       "ok": true,
       "channels": 545,
-      "alive": 193,
-      "aliveRatio": 0.354
+      "alive": 148,
+      "aliveRatio": 0.272
     },
     {
       "name": "vumi-tv",
@@ -77,8 +77,8 @@
       "priority": 3,
       "ok": true,
       "channels": 382,
-      "alive": 179,
-      "aliveRatio": 0.469
+      "alive": 124,
+      "aliveRatio": 0.325
     },
     {
       "name": "iptv-org-vie",
@@ -95,8 +95,8 @@
       "priority": 5,
       "ok": true,
       "channels": 95,
-      "alive": 83,
-      "aliveRatio": 0.874
+      "alive": 78,
+      "aliveRatio": 0.821
     }
   ],
   "playlist": "https://raw.githubusercontent.com/minhquanghp86/mq-tv-lists/main/vn.m3u"
