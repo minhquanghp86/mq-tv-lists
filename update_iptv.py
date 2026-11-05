@@ -35,7 +35,7 @@ OUTPUT_JSON = ROOT / "mq-tv.json"
 FETCH_TIMEOUT = 20
 PROBE_TIMEOUT = 8
 PROBE_WORKERS = 24
-MAX_CONSECUTIVE_FAILS = 2
+MAX_CONSECUTIVE_FAILS = 5
 MIN_CHANNELS = 50
 
 ICT = timezone(timedelta(hours=7))
@@ -318,11 +318,7 @@ def check_health(channels: list[Channel], user_agent: str, health: dict) -> None
 def keep_channel(channel: Channel, health: dict) -> bool:
     entry = health.get(channel.url, {})
     fails = int(entry.get("fails", 0))
-    if fails == 0:
-        return True
-    # chưa từng phản hồi lần nào → loại ngay; đã từng sống thì cho phép trễ mạng 1 lần
-    if not entry.get("lastOk"):
-        return False
+    # chỉ loại sau 3 lần lỗi liên tiếp: tránh xoá oan kênh VN khi runner nước ngoài không vào được
     return fails < MAX_CONSECUTIVE_FAILS
 
 
@@ -420,6 +416,7 @@ def write_outputs(
             if groups.get(name)
         ],
         "missingGroups": [name for name in GROUP_ORDER if not groups.get(name) and name != "Khác"],
+        "unverified": sum(1 for channel in channels if channel.alive is False),
         "dropped": dropped or {},
         "sources": sources_report,
         "playlist": "https://raw.githubusercontent.com/minhquanghp86/mq-tv-lists/main/vn.m3u",
