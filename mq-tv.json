@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-05T20:33:47+07:00",
+  "updatedAt": "2026-11-05T20:45:55+07:00",
   "epg": "https://epg.io.vn/epg.xml",
-  "channels": 444,
-  "sha256": "61c048b563e155871e0b0841a14c813c79361ec172890868e33e0ab9544c6fe4",
+  "channels": 447,
+  "sha256": "36d87a79d4246abd8725a7ffc5747501de1fabe02df38cf91cfe611e0f5faa43",
   "groups": [
     {
       "name": "VTV",
-      "count": 34
+      "count": 35
     },
     {
       "name": "SCTV",
@@ -18,7 +18,7 @@
     },
     {
       "name": "VTVcab",
-      "count": 16
+      "count": 18
     },
     {
       "name": "HTV",
@@ -51,14 +51,14 @@
       "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/vmttv",
       "ok": true,
       "channels": 545,
-      "alive": 182
+      "alive": 118
     },
     {
       "name": "khanh71",
       "url": "https://raw.githubusercontent.com/khanh71/All-In-One-IPTV/main/http-iptv.m3u",
       "ok": true,
       "channels": 76,
-      "alive": 54
+      "alive": 38
     },
     {
       "name": "iptv-org-vn",
@@ -72,14 +72,14 @@
       "url": "https://iptv-org.github.io/iptv/languages/vie.m3u",
       "ok": true,
       "channels": 100,
-      "alive": 70
+      "alive": 62
     },
     {
       "name": "vumi-tv",
       "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/tv.m3u",
       "ok": true,
       "channels": 382,
-      "alive": 189
+      "alive": 131
     }
   ],
   "playlist": "https://raw.githubusercontent.com/minhquanghp86/mq-tv-lists/main/vn.m3u"
