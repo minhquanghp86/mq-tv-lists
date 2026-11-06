@@ -363,6 +363,8 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="Quốc Tế",CNN (SV2)
 https://chunks.tunein.com/live/newsfree/cnnfree/1213329/4ee8d54fa2e742f9a3a8f0d28abf5a10/aac_adts/96k/pri-aac_adts96-1712849145-5990-15247.aac
 #EXTINF:-1 tvg-id="davincihd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_da-vinci-learning_165655659384.png" group-title="Quốc Tế",Da Vinci
+https://vmttv.dpdns.org/tv360/?id=davinci-hd
+#EXTINF:-1 tvg-id="davincihd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_da-vinci-learning_165655659384.png" group-title="Quốc Tế",Da Vinci
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png" group-title="Quốc Tế",Discovery
@@ -519,11 +521,13 @@ http://3bb.engatetv.com:25461/hstn/line/17
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.thairath.co.th/assets/tv/img/share_tv.jpg" group-title="HTV",Thairath TV 32
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776225&extension=ts&play_token=TGCPfAlA9v
 #EXTINF:-1 tvg-id="HTVSports.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" group-title="HTV",HTV Sports (1080i)
-https://vmttv.dpdns.org/tv360/?id=htv-the-thao
+https://vmttv.dpdns.org/tv360?id=htv-the-thao
 #EXTINF:-1 tvg-id="AnNinhTV.vn@HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="HTV",An Ninh TV
-https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1 tvg-id="HaTinhTV.vn@SD" tvg-logo="https://i.imgur.com/4yIgKKx.png" group-title="HTV",Ha Tinh TV (
 https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" group-title="HTV",HTV Thể Thao
+https://vmttv.dpdns.org/tv360/?id=htv-the-thao
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" group-title="HTV",HTV Thể Thao
 https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_640_360.png" group-title="HTV",HTVC Ca nhạc
@@ -1348,8 +1352,6 @@ https://cdn.mediatech.vn/dongnai/tv2live-transmux.m3u8
 #EXTINF:-1 tvg-id="dongthap1" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="Địa Phương",Đồng Tháp 1
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_640_360.png" group-title="Quốc Phòng",ANTV
-https://freem3u.xyz/api/live/play.m3u8?vid=20
-#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_640_360.png" group-title="Quốc Phòng",ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="BinhThuanTV.vn@SD" tvg-logo="" group-title="Quốc Phòng",Binh Thuan TV (
 https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8
@@ -1546,7 +1548,7 @@ https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u
 #EXTINF:-1 tvg-id="DaNangTV2.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/DRT%20-%20Da%20Nang%20TV/DRT2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%C3%A0%20N%E1%BA%B5ng%202%20%E2%80%A2%20B%E1%BA%A3n%202.png" group-title="Khác",Da Nang TV2 (
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 #EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Khác",Da Vinci Asia Vietnam (
-https://vmttv.dpdns.org/tv360/?id=davinci-hd
+https://vmttv.dpdns.org/tv360?id=davinci-hd
 #EXTINF:-1 tvg-id="DaoLaneXangTV.la@SD" tvg-logo="https://i.imgur.com/yE7nZ6w.png" group-title="Khác",Dao Lane Xang TV (
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DienBienTV.vn@SD" tvg-logo="https://i.imgur.com/u308o8q.png" group-title="Khác",Dien Bien TV (
@@ -1643,6 +1645,8 @@ https://rumble.com/hls-vod/aZ6ODFgg1L8/playlist.m3u8
 https://rumble.com/hls-vod/qlkfAggBdjU/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261105/2026110501/5cb13a07-418c-452c-801d-15de2d31a5b8-5-2560x1440.jpg&width=1080" group-title="Khác",Kế Hoạch CM12 - Tập 5
 https://rumble.com/hls-vod/e0xUqB9VbOA/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261106/2026110605/68491695-e853-4ab9-9fa6-60844b77b2ca-6-2560x1440.jpg&width=1280" group-title="Khác",Kế Hoạch CM12 - Tập 6
+https://rumble.com/hls-vod/5PO3pzUXLOQ/playlist.m3u8
 #EXTINF:-1 tvg-id="LangSonTV.vn@SD" tvg-logo="https://i.imgur.com/Sj7EjYT.png" group-title="Khác",Lang Son TV (
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us@SD" tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="Khác",Lao-Thai TV (
@@ -1728,7 +1732,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:-1 tvg-id="ONO2TV.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab7%20-%20ON%20O2TV.png" group-title="Khác",ON O2TV (
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-id="ONPhimViet.vn@SD" tvg-logo="https://i.ibb.co/Swvp1vwM/IMG-2525.jpg" group-title="Khác",ON Phim Viet (
-https://vmttv.dpdns.org/tv360/?id=175
+https://vmttv.dpdns.org/tv360?id=175
 #EXTINF:-1 tvg-id="ONStyleTV.vn@SD" tvg-logo="https://i.ibb.co/JFw65Mtk/IMG-2529.webp" group-title="Khác",ON Style TV (
 https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1 tvg-id="ONVieDramas.vn@SD" tvg-logo="https://i.ibb.co/VptvgFVx/IMG-2530.webp" group-title="Khác",ON Vie Dramas (1080i)
