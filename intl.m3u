@@ -1,23 +1,56 @@
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml" x-tvg-url="https://epg.io.vn/epg.xml"
-# Kênh quốc tế HLS không DRM — dùng làm luồng dự phòng cho các kênh DASH/DRM của nguồn chính
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",Cartoon Network HD
+# Luồng HLS thay thế cho kênh DRM (giữ đúng tên/nhóm như nguồn chính để app gộp thành luồng dự phòng)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",Cartoonito
+http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",Cinemax HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
-http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
+http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
 https://cdn.qd.je/163189/cinemaworld
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",Cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
+http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",Cartoon Network HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",BBC Cbeebies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
 http://92.114.85.87:8017/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",AXN HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",BBC World News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
-http://202.150.165.66:8088/play/301-AXN/index.m3u8
+http://88.212.15.50/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",Bloomberg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
+https://tvsen6.aynaott.com/cnn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",Discovery Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
 http://125.227.210.55:1004/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",AXN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",Fashion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Quốc Tế",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/129.0.0.0 Safari/537.36
+http://88.212.15.50/live/warner_tv/index.m3u8
