@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-07T05:53:38+07:00",
+  "updatedAt": "2026-11-08T04:37:54+07:00",
   "healthChecked": false,
   "epg": "https://epg.io.vn/epg.xml",
-  "channels": 845,
-  "sha256": "47af18da1e9559a76f47da95c663129033b0749ea907ee0ddc674c2b3e0deda3",
+  "channels": 846,
+  "sha256": "44981b5a972088e9d2fbd7ce0b63673270b28dac26be87df34d0bc910768fe34",
   "groups": [
     {
       "name": "VTV",
-      "count": 72
+      "count": 73
     },
     {
       "name": "SCTV",
@@ -66,7 +66,7 @@
       "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/vmttv",
       "priority": 1,
       "ok": true,
-      "channels": 547
+      "channels": 548
     },
     {
       "name": "vumi-tv",
