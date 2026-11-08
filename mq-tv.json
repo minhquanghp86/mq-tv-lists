@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-08T04:37:54+07:00",
+  "updatedAt": "2026-11-09T04:51:33+07:00",
   "healthChecked": false,
   "epg": "https://epg.io.vn/epg.xml",
-  "channels": 846,
-  "sha256": "44981b5a972088e9d2fbd7ce0b63673270b28dac26be87df34d0bc910768fe34",
+  "channels": 843,
+  "sha256": "12f749822d83b1ea2d7d25135f55d957c534e856652fb87a4eb765ba629c2f89",
   "groups": [
     {
       "name": "VTV",
-      "count": 73
+      "count": 72
     },
     {
       "name": "SCTV",
@@ -15,7 +15,7 @@
     },
     {
       "name": "Quốc Tế",
-      "count": 55
+      "count": 56
     },
     {
       "name": "VTVcab",
@@ -23,7 +23,7 @@
     },
     {
       "name": "HTV",
-      "count": 53
+      "count": 52
     },
     {
       "name": "In The Box",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Thể Thao",
-      "count": 183
+      "count": 181
     },
     {
       "name": "Địa Phương",
@@ -66,7 +66,7 @@
       "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/vmttv",
       "priority": 1,
       "ok": true,
-      "channels": 548
+      "channels": 518
     },
     {
       "name": "vumi-tv",
