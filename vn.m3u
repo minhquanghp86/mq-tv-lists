@@ -1403,6 +1403,8 @@ https://vmttv.dpdns.org/tv360/?id=phim-au-my
 #EXTINF:-1 tvg-id="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_640_360.png" group-title="Khác",360 Phim Âu Mỹ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9903
+#EXTINF:-1 tvg-id="360songkhoe" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859801499/e3bcb47a3b1b_640_360.png" group-title="Khác",360 Sống Khỏe
+https://vmttv.dpdns.org/tv360/?id=360-song-khoe
 #EXTINF:-1 tvg-id="360thieunhi" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/18/13/1781765362332/737c1501b0c5_640_360.png" group-title="Khác",360 Thiếu Nhi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
@@ -1643,6 +1645,8 @@ https://rumble.com/hls-vod/qlkfAggBdjU/playlist.m3u8
 https://rumble.com/hls-vod/e0xUqB9VbOA/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261106/2026110605/68491695-e853-4ab9-9fa6-60844b77b2ca-6-2560x1440.jpg&width=1280" group-title="Khác",Kế Hoạch CM12 - Tập 6
 https://rumble.com/hls-vod/5PO3pzUXLOQ/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/09/1a72d84d-633e-45a7-908a-ac7a44047668-7-2560x1440.jpg&width=1280" group-title="Khác",Kế Hoạch CM12 - Tập 7
+https://rumble.com/hls-vod/W2OYTbQygag/playlist.m3u8
 #EXTINF:-1 tvg-id="LangSonTV.vn@SD" tvg-logo="https://i.imgur.com/Sj7EjYT.png" group-title="Khác",Lang Son TV (
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us@SD" tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="Khác",Lao-Thai TV (
@@ -1791,8 +1795,6 @@ https://stream.zeno.fm/a2dbs2tq1p8uv
 https://stream.zeno.fm/x2z45v7d84zuv
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-eaJhNFbzINk/XlhGheWJpgI/AAAAAAAAJ8M/k3fnwM6DPfso2q3pF8yzQWvg8ZScKF2dQCLcBGAsYHQ/s1600/HMHD.png" group-title="Khác",Ramsey HangMeas Melody
 http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTMASEAN.my@SD" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="Khác",RTM ASEAN
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="sglive" tvg-logo="https://devonlynino.github.io/assets/images/main.png" group-title="Khác",SGLive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://tpninosaga.duckdns.org/source/twitch.m3u8?channel=devonlynino&token=NinoExility

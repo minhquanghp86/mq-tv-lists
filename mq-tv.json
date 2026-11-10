@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-09T04:51:33+07:00",
+  "updatedAt": "2026-11-10T08:20:37+07:00",
   "healthChecked": false,
   "epg": "https://epg.io.vn/epg.xml",
-  "channels": 843,
-  "sha256": "12f749822d83b1ea2d7d25135f55d957c534e856652fb87a4eb765ba629c2f89",
+  "channels": 844,
+  "sha256": "54989ed75b33b16088f6f61e0d6b24805acbe31255dd95e18d3d8ce5463d76ce",
   "groups": [
     {
       "name": "VTV",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Khác",
-      "count": 281
+      "count": 282
     }
   ],
   "missingGroups": [
@@ -66,7 +66,7 @@
       "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/vmttv",
       "priority": 1,
       "ok": true,
-      "channels": 518
+      "channels": 520
     },
     {
       "name": "vumi-tv",
@@ -87,7 +87,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/vn.m3u",
       "priority": 5,
       "ok": true,
-      "channels": 95
+      "channels": 94
     }
   ],
   "playlist": "https://raw.githubusercontent.com/minhquanghp86/mq-tv-lists/main/vn.m3u"
