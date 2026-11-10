@@ -1647,6 +1647,8 @@ https://rumble.com/hls-vod/e0xUqB9VbOA/playlist.m3u8
 https://rumble.com/hls-vod/5PO3pzUXLOQ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/09/1a72d84d-633e-45a7-908a-ac7a44047668-7-2560x1440.jpg&width=1280" group-title="Khác",Kế Hoạch CM12 - Tập 7
 https://rumble.com/hls-vod/W2OYTbQygag/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/10/62963286-0d84-470b-8e7c-10d585cf21c2-8-2560x1440.jpg&width=1280" group-title="Khác",Kế Hoạch CM12 - Tập 8
+https://rumble.com/hls-vod/sCHY3k5K0LI/playlist.m3u8
 #EXTINF:-1 tvg-id="LangSonTV.vn@SD" tvg-logo="https://i.imgur.com/Sj7EjYT.png" group-title="Khác",Lang Son TV (
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us@SD" tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="Khác",Lao-Thai TV (
@@ -1654,6 +1656,8 @@ https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/22.png" group-title="Khác",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",MNB World (
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://haniff.vn/wp-content/uploads/2024/10/Lam-giau-voi-ma-2.jpg" group-title="Khác",Làm Giàu Với Ma (Betting With Ghost)
+https://s6.kkphimplayer6.com/20250814/7EdgqAni/3500kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://haniff.vn/wp-content/uploads/2024/10/Lam-giau-voi-ma-2.jpg" group-title="Khác",Làm Giàu Với Ma (Betting With Ghost)
 https://s4.phim1280.tv/20250323/KmdatGKe/3000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/12/30/lam-giau-voi-ma-cuoc-chien-hot-xoan-fpt-play-1767066672824_Landscape.jpg" group-title="Khác",Làm Giàu Với Ma Phần 2: Cuộc Chiến Hột Xoàn
