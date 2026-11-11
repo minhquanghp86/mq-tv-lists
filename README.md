@@ -15,6 +15,7 @@ Dùng được với app MINH QUANG TV, TiviMate, OTT Navigator, Perfect Player,
 | File | Nội dung |
 |---|---|
 | `vn.m3u` | Danh sách chính: một header `#EXTM3U` có `url-tvg`/`x-tvg-url`, mỗi kênh có `tvg-id`, `tvg-logo`, `group-title`; giữ `#EXTVLCOPT` (UA/Referer) nếu nguồn cần |
+| `intl.m3u` | Danh sách **quốc tế** (dùng làm nguồn dựng sẵn **“Dự phòng”** trong app MINH QUANG TV, mặc định tắt) |
 | `mq-tv.json` | Metadata: `updatedAt`, `channels`, `groups[]`, `sources[]` (kênh/nguồn/sống), `sha256`, `epg` |
 | `state/health.json` | Sức khoẻ từng URL giữa các lần chạy (số lần lỗi liên tiếp, lần sống cuối) |
 | `channels.json` | Ghi đè thủ công: `{"vtv1": {"name": "...", "group": "...", "logo": "...", "tvg_id": "..."}}` |
