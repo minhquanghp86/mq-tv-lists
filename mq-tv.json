@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T06:22:58+07:00",
+  "updatedAt": "2026-11-14T06:24:16+07:00",
   "healthChecked": false,
   "epg": "https://epg.io.vn/epg.xml",
-  "channels": 847,
-  "sha256": "9b6956894ccc63f8929a76c63f8b1ad274130ab5991b4e48b264ab16ba8362b2",
+  "channels": 848,
+  "sha256": "f3b21b80c95e127093f46881bc745b78bedec43a96e333b07a5d4de3cf40f742",
   "groups": [
     {
       "name": "VTV",
@@ -35,7 +35,7 @@
     },
     {
       "name": "Địa Phương",
-      "count": 120
+      "count": 123
     },
     {
       "name": "Quốc Phòng",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Khác",
-      "count": 286
+      "count": 284
     }
   ],
   "missingGroups": [
@@ -66,7 +66,7 @@
       "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/vmttv",
       "priority": 1,
       "ok": true,
-      "channels": 521
+      "channels": 522
     },
     {
       "name": "vumi-tv",
@@ -80,14 +80,14 @@
       "url": "https://iptv-org.github.io/iptv/languages/vie.m3u",
       "priority": 4,
       "ok": true,
-      "channels": 102
+      "channels": 99
     },
     {
       "name": "iptv-org-vn",
       "url": "https://iptv-org.github.io/iptv/countries/vn.m3u",
       "priority": 5,
       "ok": true,
-      "channels": 96
+      "channels": 92
     }
   ],
   "playlist": "https://raw.githubusercontent.com/minhquanghp86/mq-tv-lists/main/vn.m3u"

@@ -1093,12 +1093,18 @@ https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-id="360haitinhcam" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_640_360.png" group-title="Địa Phương",360 Hài - Tình Cảm
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-hai-tinh-cam
+#EXTINF:-1 tvg-id="angiang2" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Địa Phương",An Giang 2
+https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 #EXTINF:-1 tvg-id="angiang1" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H4.png" group-title="Địa Phương",ATV1 - Báo và PTTH An Giang
 https://freem3u.xyz/api/live/play.m3u8?vid=66
+#EXTINF:-1 tvg-id="angiang1" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H4.png" group-title="Địa Phương",ATV1 - Báo và PTTH An Giang
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="angiang2" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV2.jpg" group-title="Địa Phương",ATV2
 https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTINF:-1 tvg-id="angiang2" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV2.jpg" group-title="Địa Phương",ATV2
 https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="angiang3" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H5.png" group-title="Địa Phương",ATV3 - Báo và PTTH An Giang
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="hatinh" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/BHTTV.webp" group-title="Địa Phương",BHTTV - Báo và PTTH Hà Tĩnh
 https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTINF:-1 tvg-id="hatinh" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/BHTTV.webp" group-title="Địa Phương",BHTTV - Báo và PTTH Hà Tĩnh
@@ -1412,12 +1418,6 @@ https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8
 #EXTINF:-1 tvg-id="angiangradio1" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H6.png" group-title="Khác",An Giang FM 99,4 Mhz
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
-#EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-logo="https://i.imgur.com/mgp6RAU.png" group-title="Khác",An Giang TV 1 (
-https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Khác",An Giang TV 2 (
-https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
-#EXTINF:-1 tvg-id="AnGiangTV3.vn@SD" tvg-logo="https://i.imgur.com/gZUV4z8.png" group-title="Khác",An Giang TV 3 (
-https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/anh-hung.jpg" group-title="Khác",Anh Hùng
 https://v7.kkphimplayer7.com/20260821/1tcAZTSo/3500kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg@Vietnam" tvg-logo="https://i.imgur.com/pux6WN8.png" group-title="Khác",Asian Food Network Vietnam (
@@ -1646,6 +1646,8 @@ https://rumble.com/hls-vod/5PO3pzUXLOQ/playlist.m3u8
 https://rumble.com/hls-vod/W2OYTbQygag/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/10/62963286-0d84-470b-8e7c-10d585cf21c2-8-2560x1440.jpg&width=1280" group-title="Khác",Kế Hoạch CM12 - Tập 8
 https://rumble.com/hls-vod/sCHY3k5K0LI/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/11/e03c0469-5c70-425e-9569-034995d7157f-9-2560x1440.jpg&width=1280" group-title="Khác",Kế Hoạch CM12 - Tập 9
+https://rumble.com/hls-vod/9vEQSm64sgk/playlist.m3u8
 #EXTINF:-1 tvg-id="LangSonTV.vn@SD" tvg-logo="https://i.imgur.com/Sj7EjYT.png" group-title="Khác",Lang Son TV (
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us@SD" tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="Khác",Lao-Thai TV (
