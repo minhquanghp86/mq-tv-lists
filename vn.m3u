@@ -1632,6 +1632,8 @@ http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 https://vmttv.dpdns.org/VTVGo/?kenh-tieng-anh-1
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261030/2026103005/5b5e9ab9-d1f0-49d0-8ae4-6fea127f65ea-1-2560x1440.jpg&width=1080" group-title="Khác",Kế Hoạch CM12 - Tập 1
 https://rumble.com/hls-vod/rYCXyz8f0fw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/12/375356ad-c473-44cf-b3e9-652b67c3e652-10-2560x1440.jpg&width=1280" group-title="Khác",Kế Hoạch CM12 - Tập 10
+https://rumble.com/hls-vod/28UlFRwWjmM/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261102/2026110205/e7116d25-2a24-42a4-b6ec-ba4ca85cd16f-2-2560x1440.jpg&width=1080" group-title="Khác",Kế Hoạch CM12 - Tập 2
 https://rumble.com/hls-vod/6AwEiNEKeWM/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261103/2026110305/6eba0c00-652f-40b2-9f8e-2e0be0ab6e89-3-2560x1440.jpg&width=1080" group-title="Khác",Kế Hoạch CM12 - Tập 3
