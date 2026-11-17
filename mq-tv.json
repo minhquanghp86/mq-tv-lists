@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T05:38:45+07:00",
+  "updatedAt": "2026-11-17T08:44:56+07:00",
   "healthChecked": false,
   "epg": "https://epg.io.vn/epg.xml",
-  "channels": 850,
-  "sha256": "d4806ffa07a1de5ed8013b5749c854b06162daa9067ce74340a5ac2e27504a25",
+  "channels": 851,
+  "sha256": "f787b47c2b2d939ec3e02b5d4937a18d894e139ca7fc61b45e58f39ffd689f9a",
   "groups": [
     {
       "name": "VTV",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Khác",
-      "count": 286
+      "count": 287
     }
   ],
   "missingGroups": [
@@ -66,7 +66,7 @@
       "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/main/vmttv",
       "priority": 1,
       "ok": true,
-      "channels": 523
+      "channels": 524
     },
     {
       "name": "vumi-tv",

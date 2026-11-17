@@ -1210,7 +1210,7 @@ https://stream.thingnet.vn/live/smil:LTV.smil/chunklist.m3u8
 https://liveh34.vtvprime.vn/hls/LAMDONG/01.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png" group-title="Địa Phương",NBTV - Báo và PTTH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
-#EXTINF:-1 tvg-id="nghean" tvg-logo="https://i.postimg.cc/HxP9pG9N/nghean.png" group-title="Địa Phương",Nghệ An
+#EXTINF:-1 tvg-id="nghean" tvg-logo="https://i.postimg.cc/34pk2LsV/Logo-natv-2026.png" group-title="Địa Phương",Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.glxplay.io/images/w700/title/ngay-xua-co-mot-chuyen-tinh_web_backdrop_8b7a5b8cbb5fe245d3a6f7aea524c796.jpg" group-title="Địa Phương",Ngày Xưa Có Một Chuyện Tình
 https://s6.kkphimplayer6.com/20250901/w8LN0LND/3500kb/hls/index.m3u8
@@ -1634,6 +1634,8 @@ https://vmttv.dpdns.org/VTVGo/?kenh-tieng-anh-1
 https://rumble.com/hls-vod/rYCXyz8f0fw/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/12/375356ad-c473-44cf-b3e9-652b67c3e652-10-2560x1440.jpg&width=1280" group-title="Khác",Kế Hoạch CM12 - Tập 10
 https://rumble.com/hls-vod/28UlFRwWjmM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/13/b77c0c19-b832-4d6a-8e8a-b95af24488fc-11-2560x1440.jpg&width=1280" group-title="Khác",Kế Hoạch CM12 - Tập 11
+https://rumble.com/hls-vod/OEqjG2A9If8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261102/2026110205/e7116d25-2a24-42a4-b6ec-ba4ca85cd16f-2-2560x1440.jpg&width=1080" group-title="Khác",Kế Hoạch CM12 - Tập 2
 https://rumble.com/hls-vod/6AwEiNEKeWM/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261103/2026110305/6eba0c00-652f-40b2-9f8e-2e0be0ab6e89-3-2560x1440.jpg&width=1080" group-title="Khác",Kế Hoạch CM12 - Tập 3
@@ -1744,7 +1746,7 @@ https://vmttv.dpdns.org/tv360?id=175
 https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1 tvg-id="ONTrendingTV.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab17%20-%20ON%20Trending%20TV.png" group-title="Khác",ON Trending TV (
 https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:-1 tvg-id="ONVFamily.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab20%20-%20ON%20VFamily.png" group-title="Khác",ON V Family (
+#EXTINF:-1 tvg-id="ONVFamily.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab20%20-%20ON%20VFamily.png" group-title="Khác",ON VFamily (
 https://vmttv.dpdns.org/tv360?id=187
 #EXTINF:-1 tvg-id="ONVieDramas.vn@SD" tvg-logo="https://i.ibb.co/VptvgFVx/IMG-2530.webp" group-title="Khác",ON Vie Dramas (1080i)
 https://freem3u.xyz/api/live/play.m3u8?vid=177
