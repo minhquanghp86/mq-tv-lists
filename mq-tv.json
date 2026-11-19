@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T07:47:01+07:00",
+  "updatedAt": "2026-11-19T07:04:24+07:00",
   "healthChecked": false,
   "epg": "https://epg.io.vn/epg.xml",
   "channels": 851,
-  "sha256": "f787b47c2b2d939ec3e02b5d4937a18d894e139ca7fc61b45e58f39ffd689f9a",
+  "sha256": "263bde4b90804b65d7cdd04304c58c1c4a72f9babf8f56dd1b6c9670c0813f01",
   "groups": [
     {
       "name": "VTV",
