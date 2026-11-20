@@ -56,7 +56,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=110
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/b5/5c/cc/c2/22/29/b5cc2-pvtv5hd-channel-unkn.png" group-title="VTV",VTV5
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="VTV",VTV5
+#EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/VTV5_logo_2025.png" group-title="VTV",VTV5
 https://dethich.pw/vtv5/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/6.png?w=800&fit=scale-down&q=85" group-title="VTV",VTV5 Tây Nam Bộ
 https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
