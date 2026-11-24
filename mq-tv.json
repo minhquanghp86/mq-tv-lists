@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-23T06:26:11+07:00",
+  "updatedAt": "2026-11-24T10:53:59+07:00",
   "healthChecked": false,
   "epg": "https://epg.io.vn/epg.xml",
-  "channels": 852,
-  "sha256": "2463752a4e74988cb725029858814b963d1ba5a0fb1cf02cbdf6057d29bd2943",
+  "channels": 848,
+  "sha256": "fe0a8cd1778786d02eacdb20519cb9a286c192587779ed65c7174b3360848fc7",
   "groups": [
     {
       "name": "VTV",
@@ -23,7 +23,7 @@
     },
     {
       "name": "HTV",
-      "count": 50
+      "count": 46
     },
     {
       "name": "In The Box",
