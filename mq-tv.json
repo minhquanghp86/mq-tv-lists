@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-25T09:04:01+07:00",
+  "updatedAt": "2026-11-26T08:41:58+07:00",
   "healthChecked": false,
   "epg": "https://epg.io.vn/epg.xml",
-  "channels": 847,
-  "sha256": "37e9e3e88b213ab96f46bd967c53bc44c00ed60f07218ca24b42443ceee49252",
+  "channels": 849,
+  "sha256": "7fade92f5685bf8d27c2b966be1d00cf2ea641406a594ff1610a9e1cb1890c33",
   "groups": [
     {
       "name": "VTV",
@@ -35,7 +35,7 @@
     },
     {
       "name": "Địa Phương",
-      "count": 126
+      "count": 128
     },
     {
       "name": "Quốc Phòng",
