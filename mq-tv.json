@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-27T08:35:57+07:00",
+  "updatedAt": "2026-11-28T08:15:52+07:00",
   "healthChecked": false,
   "epg": "https://epg.io.vn/epg.xml",
-  "channels": 861,
-  "sha256": "b9e2c6211320928c9b3b2f3c8743539a233f429e0a68896f80b39cd6028461d0",
+  "channels": 854,
+  "sha256": "397efa1be83698ace442faf76458245d8b5f185853e0e0afb7baee02e1c6b1c9",
   "groups": [
     {
       "name": "VTV",
@@ -23,7 +23,7 @@
     },
     {
       "name": "HTV",
-      "count": 45
+      "count": 37
     },
     {
       "name": "In The Box",
@@ -35,7 +35,7 @@
     },
     {
       "name": "Địa Phương",
-      "count": 129
+      "count": 130
     },
     {
       "name": "Quốc Phòng",
